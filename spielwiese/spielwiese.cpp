@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-	std::cout << "Ich liebe C++";
+	std::cout << "Ich liebe C++ (Spaß)";
 }
 
 // Programm ausführen: STRG+F5 oder "Debuggen" > Menü "Ohne Debuggen starten"
